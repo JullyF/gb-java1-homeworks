@@ -4,13 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f81ace4-fff9-4e0a-b56f-a68815ffaed0" name="Changes" comment="" />
+    <list default="true" id="6f81ace4-fff9-4e0a-b56f-a68815ffaed0" name="Changes" comment="Added vcs.xml config file">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="java1-lesson2-homework" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1zMkQroJSEk7tbnkzLg4tAMsQ7X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,13 +41,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.HomeworkLesson2">
-    <configuration name="HomeworkLesson1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java1Lesson1.HomeworkLesson1" />
+  <component name="RunManager" selected="Application.HomeworkL3Task5V2">
+    <configuration name="HomeworkL3Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java1Lesson3.HomeworkL3Task1" />
       <module name="Homeworks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java1Lesson1.*" />
+          <option name="PATTERN" value="Java1Lesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -34,12 +55,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeworkLesson2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java1Lesson2.HomeworkLesson2" />
+    <configuration name="HomeworkL3Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java1Lesson3.HomeworkL3Task2" />
       <module name="Homeworks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java1Lesson2.*" />
+          <option name="PATTERN" value="Java1Lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeworkL3Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java1Lesson3.HomeworkL3Task4" />
+      <module name="Homeworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java1Lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeworkL3Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java1Lesson3.HomeworkL3Task5" />
+      <module name="Homeworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java1Lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeworkL3Task5V2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java1Lesson3.HomeworkL3Task5V2" />
+      <module name="Homeworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java1Lesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,8 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HomeworkLesson2" />
-        <item itemvalue="Application.HomeworkLesson1" />
+        <item itemvalue="Application.HomeworkL3Task5V2" />
+        <item itemvalue="Application.HomeworkL3Task5" />
+        <item itemvalue="Application.HomeworkL3Task2" />
+        <item itemvalue="Application.HomeworkL3Task1" />
+        <item itemvalue="Application.HomeworkL3Task4" />
       </list>
     </recent_temporary>
   </component>
@@ -63,6 +126,38 @@
       <option name="presentableId" value="Default" />
       <updated>1633965334197</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added vcs.xml config file">
+      <created>1633966675423</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633966675423</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Homework for lesson 2">
+      <created>1633967131167</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633967131167</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added vcs.xml config file" />
+    <MESSAGE value="Homework for lesson 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework for lesson 2" />
   </component>
 </project>
